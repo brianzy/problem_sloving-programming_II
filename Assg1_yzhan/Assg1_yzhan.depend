@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505262247 source:z:\assg1_yzhan\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+

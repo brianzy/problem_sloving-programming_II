@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1509753949 source:z:\assg7_yzhan\assg7_yzhan\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1509754363 z:\assg7_yzhan\assg7_yzhan\data.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+
+1509754349 source:z:\assg7_yzhan\assg7_yzhan\data.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+

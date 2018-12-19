@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1510759172 source:z:\assg9_yzhan\assg9_yzhan\mainprogram.cpp
+	<iostream>
+	<iomanip>
+	"fractionType.h"
+
+1510759523 z:\assg9_yzhan\assg9_yzhan\fractiontype.h
+	<iostream>
+	<iomanip>
+
+1510793233 source:z:\assg9_yzhan\assg9-task1_yzhan\mainprogram.cpp
+	<iostream>
+	<iomanip>
+	"fractionType.h"
+
+1510760219 z:\assg9_yzhan\assg9-task1_yzhan\fractiontype.h
+	<iostream>
+	<iomanip>
+

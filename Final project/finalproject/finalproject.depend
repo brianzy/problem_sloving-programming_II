@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1512270958 source:z:\final project\finalproject\appointment.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1512271704 z:\final project\finalproject\data.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+
+1512011874 source:z:\final project\finalproject\date.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1512001021 source:z:\final project\finalproject\diagnosis.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1512011874 source:z:\final project\finalproject\doctor.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1512271542 source:z:\final project\finalproject\labappointment.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1512007349 source:z:\final project\finalproject\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1512137549 source:z:\final project\finalproject\patient.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1511930735 source:z:\final project\finalproject\record.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+
+1512137620 source:z:\final project\finalproject\slots.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+	<cstring>
+	"data.h"
+

@@ -1,0 +1,22 @@
+easy:
+	if totalPoints >= 85, grade = A
+	if totalPoints >= 75, grade = B
+	if totalPoints >= 65, grade = C
+	if totalPoints >= 55, grade = D
+	otherwise, grade = F
+
+
+medium:
+	if totalPoints >= 90, grade = A
+	if totalPoints >= 80, grade = B
+	if totalPoints >= 70, grade = C
+	if totalPoints >= 60, grade = D
+	otherwise, grade = F
+
+
+hard:
+	if totalPoints >= 95, grade = A
+	if totalPoints >= 85, grade = B
+	if totalPoints >= 75, grade = C
+	if totalPoints >= 65, grade = D
+	otherwise, grade = F

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512075097 source:z:\assg10_yzhan-task2\assg10_yzhan-task2\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<list>
+

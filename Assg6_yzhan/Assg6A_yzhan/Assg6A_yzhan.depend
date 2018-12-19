@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509151944 source:z:\assg6_yzhan\assg6a_yzhan\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<iomanip>
+	<string>
+	<vector>
+

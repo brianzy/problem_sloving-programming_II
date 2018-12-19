@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1507210764 source:z:\assg4a_yzhan\assg4a\data.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"data.h"
+
+1507216743 z:\assg4a_yzhan\assg4a\data.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
+1507212006 source:z:\assg4a_yzhan\assg4a\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"data.h"
+
+1507227513 source:z:\assg4b_yzhan\data.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"data.h"
+
+1507227117 z:\assg4b_yzhan\data.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
+1507331998 source:z:\assg4b_yzhan\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+	"data.h"
+
